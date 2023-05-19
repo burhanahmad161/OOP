@@ -1,0 +1,14 @@
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\BURHAN AHMAD\Second Semester\OOP\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\BURHAN AHMAD\Second Semester\OOP\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\BURHAN AHMAD\Second Semester\OOP\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\BURHAN AHMAD\Second Semester\OOP\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\BURHAN AHMAD\Second Semester\OOP\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\BURHAN AHMAD\Second Semester\OOP\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\BURHAN AHMAD\Second Semester\OOP\CRUD\CRUD\obj\Debug\CRUD.pdb

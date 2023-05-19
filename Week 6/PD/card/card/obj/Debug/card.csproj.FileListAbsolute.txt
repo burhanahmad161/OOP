@@ -1,0 +1,7 @@
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\PD\card\card\bin\Debug\card.exe.config
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\PD\card\card\bin\Debug\card.exe
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\PD\card\card\bin\Debug\card.pdb
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\PD\card\card\obj\Debug\card.csproj.AssemblyReference.cache
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\PD\card\card\obj\Debug\card.csproj.CoreCompileInputs.cache
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\PD\card\card\obj\Debug\card.exe
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\PD\card\card\obj\Debug\card.pdb

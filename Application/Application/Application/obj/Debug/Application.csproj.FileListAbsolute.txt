@@ -1,0 +1,14 @@
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\Application\Application\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\Application\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\Application\Application\Application\bin\Debug\Application.exe.config
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\Application\Application\Application\bin\Debug\Application.exe
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\Application\Application\Application\bin\Debug\Application.pdb
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\Application\Application\Application\obj\Debug\Application.exe
+C:\Users\burha\Desktop\Burhan Ahmad\OOP\Application\Application\Application\obj\Debug\Application.pdb
+C:\BURHAN AHMAD\Second Semester\OOP\Application\Application\Application\bin\Debug\Application.exe.config
+C:\BURHAN AHMAD\Second Semester\OOP\Application\Application\Application\bin\Debug\Application.exe
+C:\BURHAN AHMAD\Second Semester\OOP\Application\Application\Application\bin\Debug\Application.pdb
+C:\BURHAN AHMAD\Second Semester\OOP\Application\Application\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\BURHAN AHMAD\Second Semester\OOP\Application\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\BURHAN AHMAD\Second Semester\OOP\Application\Application\Application\obj\Debug\Application.exe
+C:\BURHAN AHMAD\Second Semester\OOP\Application\Application\Application\obj\Debug\Application.pdb

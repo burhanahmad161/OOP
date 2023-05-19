@@ -1,0 +1,7 @@
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\Points.exe.config
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\Points.exe
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\Points.pdb
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.csproj.AssemblyReference.cache
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.csproj.CoreCompileInputs.cache
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.exe
+C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.pdb
