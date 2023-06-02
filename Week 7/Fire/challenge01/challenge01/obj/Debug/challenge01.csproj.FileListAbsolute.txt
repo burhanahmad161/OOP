@@ -1,0 +1,7 @@
+D:\Bilal\work\OOP\Week7 Lab\challenge01\challenge01\bin\Debug\challenge01.exe.config
+D:\Bilal\work\OOP\Week7 Lab\challenge01\challenge01\bin\Debug\challenge01.exe
+D:\Bilal\work\OOP\Week7 Lab\challenge01\challenge01\bin\Debug\challenge01.pdb
+D:\Bilal\work\OOP\Week7 Lab\challenge01\challenge01\obj\Debug\challenge01.csproj.AssemblyReference.cache
+D:\Bilal\work\OOP\Week7 Lab\challenge01\challenge01\obj\Debug\challenge01.csproj.CoreCompileInputs.cache
+D:\Bilal\work\OOP\Week7 Lab\challenge01\challenge01\obj\Debug\challenge01.exe
+D:\Bilal\work\OOP\Week7 Lab\challenge01\challenge01\obj\Debug\challenge01.pdb

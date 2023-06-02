@@ -1,0 +1,7 @@
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Projection\Projection\Projection\bin\Debug\Projection.exe.config
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Projection\Projection\Projection\bin\Debug\Projection.exe
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Projection\Projection\Projection\bin\Debug\Projection.pdb
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Projection\Projection\Projection\obj\Debug\Projection.csproj.AssemblyReference.cache
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Projection\Projection\Projection\obj\Debug\Projection.csproj.CoreCompileInputs.cache
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Projection\Projection\Projection\obj\Debug\Projection.exe
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Projection\Projection\Projection\obj\Debug\Projection.pdb

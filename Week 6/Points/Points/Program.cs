@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+using EZInput;
 
 namespace Points
 {
@@ -23,10 +24,34 @@ namespace Points
             {
                 foreach(GameObject g in lst)
                 {
+                    if(Keyboard.IsKeyPressed(Key.RightArrow))
+                    { 
                     g.erase();
-                    g.move();
+                    g.moveRight();
                     g.print();
-                    Thread.Sleep(100);
+                    Thread.Sleep(100);                    
+                    }
+                    if (Keyboard.IsKeyPressed(Key.LeftArrow))
+                    {
+                        g.erase();
+                        g.moveLeft();
+                        g.print();
+                        Thread.Sleep(100);
+                    }
+                    if (Keyboard.IsKeyPressed(Key.UpArrow))
+                    {
+                        g.erase();
+                        g.moveDown();
+                        g.print();
+                        Thread.Sleep(100);
+                    }
+                    if (Keyboard.IsKeyPressed(Key.DownArrow))
+                    {
+                        g.erase();
+                        g.moveUp();
+                        g.print();
+                        Thread.Sleep(100);
+                    }
                 }
             }
 

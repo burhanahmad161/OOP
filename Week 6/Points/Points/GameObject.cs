@@ -34,24 +34,21 @@ namespace Points
             this.premises = new Boundary();
             this.direction = "LeftToRight";
         }
-        public void move()
+        public void moveRight()
         {
-            if(direction == "LeftToRight")
-            {
-                startingPoint.x++;
-            }
-            else if(direction == "RightToLeft")
-            {
-                startingPoint.x--;
-            }
-            if(direction == "LeftToRight" && startingPoint.x == premises.TopRight.y)
-            {
-                direction = "RightToLeft";
-            }
-            if (direction == "RightToLeft" && startingPoint.x == 0)
-            {
-                direction = "LeftToRight";
-            }
+            startingPoint.x++;
+        }
+        public void moveLeft()
+        {
+            startingPoint.x--;
+        }
+        public void moveUp()
+        {
+            startingPoint.y++;
+        }
+        public void moveDown()
+        {
+            startingPoint.y--;
         }
         public void erase()
         {
@@ -60,7 +57,6 @@ namespace Points
                 for (int j=0; j< shape.GetLength(1); j++)
                 {
                     Console.SetCursorPosition(startingPoint.x + i, startingPoint.y + j);
-                    //Console.SetCursorPosition(5, 5 + j);
                     Console.Write(" ");
                 }
             }

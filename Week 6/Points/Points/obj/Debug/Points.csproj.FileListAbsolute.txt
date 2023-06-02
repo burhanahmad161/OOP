@@ -5,3 +5,13 @@ C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.c
 C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.csproj.CoreCompileInputs.cache
 C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.exe
 C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.pdb
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.csproj.AssemblyReference.cache
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.csproj.CoreCompileInputs.cache
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.exe
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.pdb
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\Points.exe.config
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\Points.exe
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\Points.pdb
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\EZInput.dll
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\bin\Debug\EZInput.xml
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Points\Points\obj\Debug\Points.csproj.CopyComplete

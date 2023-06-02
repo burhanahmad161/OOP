@@ -1,0 +1,7 @@
+F:\Week6\UMS6\UMS6\UMS6\obj\Debug\UMS6.csproj.AssemblyReference.cache
+F:\Week6\UMS6\UMS6\UMS6\obj\Debug\UMS6.csproj.CoreCompileInputs.cache
+F:\Week6\UMS6\UMS6\UMS6\bin\Debug\UMS6.exe.config
+F:\Week6\UMS6\UMS6\UMS6\bin\Debug\UMS6.exe
+F:\Week6\UMS6\UMS6\UMS6\bin\Debug\UMS6.pdb
+F:\Week6\UMS6\UMS6\UMS6\obj\Debug\UMS6.exe
+F:\Week6\UMS6\UMS6\UMS6\obj\Debug\UMS6.pdb

@@ -12,3 +12,10 @@ C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\obj\Debug\AllTasks
 C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\bin\Debug\AllTasks.exe.config
 C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\bin\Debug\AllTasks.exe
 C:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\bin\Debug\AllTasks.pdb
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\obj\Debug\AllTasks.csproj.AssemblyReference.cache
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\obj\Debug\AllTasks.csproj.CoreCompileInputs.cache
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\obj\Debug\AllTasks.exe
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\obj\Debug\AllTasks.pdb
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\bin\Debug\AllTasks.exe.config
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\bin\Debug\AllTasks.exe
+D:\BURHAN AHMAD\Second Semester\OOP\Work\Week 6\Shop\AllTasks\bin\Debug\AllTasks.pdb

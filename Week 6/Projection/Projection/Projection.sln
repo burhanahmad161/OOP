@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projection", "Projection\Projection.csproj", "{27BB194B-9C39-4468-B708-2518173D6316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BB194B-9C39-4468-B708-2518173D6316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BB194B-9C39-4468-B708-2518173D6316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BB194B-9C39-4468-B708-2518173D6316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BB194B-9C39-4468-B708-2518173D6316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C07B3D-C563-420F-8FE0-F463FA40F7AE}
+	EndGlobalSection
+EndGlobal

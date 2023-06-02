@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{40F4A7EC-36AE-4C2D-AA8B-6CC57344F1D4}</ProjectGuid>
+    <ProjectGuid>{31F10E85-B3BD-46CB-8FE0-804A7D68C457}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>card</RootNamespace>
     <AssemblyName>card</AssemblyName>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bl\Card.cs" />
+    <Compile Include="Bl\Deck.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
