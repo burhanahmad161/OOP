@@ -1,0 +1,3 @@
+Cold Coffee,450
+Donuts,150
+Iced Latte,500
